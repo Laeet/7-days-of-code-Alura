@@ -1,1 +1,1 @@
-# 7-days-of-code-Alura
+# Explorando os dados de empréstimos dos acervos do sistema de bibliotecas da UFRN.
